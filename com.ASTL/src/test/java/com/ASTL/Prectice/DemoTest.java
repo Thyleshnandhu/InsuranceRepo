@@ -7,6 +7,7 @@ public class DemoTest {
 	public void displayMessage()
 	{
 		System.out.println("--Demo Message--");
+		System.out.println("-----------------");
 	}
 
 }
